@@ -15,5 +15,8 @@
   },
   "optionalDependencies": {
     "@rolldown/binding-win32-x64-msvc": "^1.2.16"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.8"
   }
 }
